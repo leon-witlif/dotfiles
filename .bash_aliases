@@ -10,6 +10,8 @@ alias glg='git log --stat'
 alias glgg='git log --graph'
 alias glgga='git log --graph --decorate --all'
 
+alias gst='git status'
+
 alias l='ls -lah'
 alias la='ls -lAh'
 alias ll='ls -lh'
